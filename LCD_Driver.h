@@ -73,7 +73,7 @@ public:
 	void LCD_DisChar_1207(int Xchar, int Ychar, int Char_Offset, int Color);
 };
 
-static const unsigned char Font12_Table[] = 
+static const unsigned int Font12_Table[] = 
 {
     // @0 ' ' (7 pixels wide)
 0x12,0x00,0x12,0x00,0x27,0xF0,0x24,0x20,
