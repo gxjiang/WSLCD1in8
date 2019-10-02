@@ -103,8 +103,6 @@ static const unsigned char Font12_Table[] =
 
 // 汉字表：
 // 你好江天珩
-};
-
 
 
 #endif
